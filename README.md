@@ -1,6 +1,14 @@
 # graphhopper
 graphhopper routing service on arnaud
 ## Quickstart
+### Clone this repo!
+```
+cd ~
+```
+
+```
+git clone https://github.nrel.gov/emiller/graphhopper.git
+```
 
 ### start the graphopper server:
 start a new tmux session:
