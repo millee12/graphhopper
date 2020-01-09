@@ -10,6 +10,10 @@ cd ~
 git clone https://github.nrel.gov/emiller/graphhopper.git
 ```
 
+```
+cd graphhopper
+```
+
 ### start the graphopper server:
 start a new tmux session:
 ```
