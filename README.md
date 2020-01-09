@@ -40,5 +40,9 @@ detach from ghop w/:[ctrl + b] + d
 
 kill ghop session:
 ```
-tmux kill-session -t mysession
+tmux kill-session -t ghop
+```
+make sure it's dead:
+```
+tmux ls
 ```
