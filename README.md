@@ -1,7 +1,7 @@
 # graphhopper
 graphhopper routing service on arnaud
 ## Quickstart
-### Clone this repo!
+### Clone this repo
 ```
 cd ~
 ```
@@ -12,6 +12,10 @@ git clone https://github.nrel.gov/emiller/graphhopper.git
 
 ```
 cd graphhopper
+```
+### Download the data
+```
+wget http://download.geofabrik.de/north-america/us-latest.osm.pbf
 ```
 
 ### start the graphopper server:
