@@ -7,7 +7,7 @@ cd ~
 ```
 
 ```
-git clone ...
+git clone https://github.com/millee12/graphhopper.git
 ```
 
 ```
