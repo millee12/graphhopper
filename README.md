@@ -48,6 +48,11 @@ in your browser, go to:
 http://localhost:8989/maps/
 you should be able to do this:
 ![graphopper UI](./ghop_screenshot.png)
+### python scripting
+requires the requests module.  See ```query_ghop.py```
+
+
 ### To shut down the routing server:
 ```
-ctrl-c```
+ctrl-c
+```
